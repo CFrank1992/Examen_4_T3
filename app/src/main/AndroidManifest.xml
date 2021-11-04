@@ -10,6 +10,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Examen_4_T3">
         <activity
+            android:name=".detailActivity5"
+            android:exported="false" />
+        <activity
+            android:name=".detailActivity4"
+            android:exported="false" />
+        <activity
+            android:name=".detailActivity3"
+            android:exported="false" />
+        <activity
+            android:name=".detailActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".detailActivity1"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
